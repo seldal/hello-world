@@ -1,3 +1,3 @@
 # hello-world
 learning github
-I'm a programming hobbiest and tying to teach myself GitHub.
+I'm a programming hobbiest and trying to teach myself GitHub.
